@@ -5,3 +5,5 @@ root@b9e4eda74a82:/alx-pre_course/0x01-git/bash# clear
 root@b9e4eda74a82:/alx-pre_course/0x01-git/bash# cat > school
 #!/bin/bash
 echo "ALX" 
+#!/bin/bash
+echo "ALX" 
